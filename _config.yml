@@ -1,7 +1,7 @@
-title: Long Haul
+title: TODYASU'S BOLG 
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: https://long-haul.netlify.app
+url: https://todaysu.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
