@@ -2,7 +2,7 @@
 layout: post
 title:  "Building Ceph From Source"
 date:   2018-11-27
-author: ArthurChiao
+author: TodaySu
 categories: ceph
 ---
 
