@@ -1,7 +1,7 @@
-title: TODAYSU's Blog
-description: TODAYSU's Blog
+title: arthurchiao's Blog
+description: arthurchiao's Blog
 
-url: https://todaysu.github.io
+url: https://arthurchiao.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -27,7 +27,7 @@ navigation:
   # url: /donate
 
 social:
-   github: todaysu
+   github: arthurchiao
    #linkedin: in/yanan-zhao-7691317b?trk=hp-identity-photo
    #facebook: profile.php?id=100014334455077
    email: yisu@redhat.com
