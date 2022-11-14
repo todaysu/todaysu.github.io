@@ -1,11 +1,7 @@
 title: Todaysu's Blog
 description: Todaysu's Blog
 
-<<<<<<< HEAD
-url: https://Todaysu.github.io
-=======
-url: https://today.github.io
->>>>>>> 4a8398149e346f00062c7b12ed5eb02c6102a0b2
+url: https://todaysu.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -31,11 +27,7 @@ navigation:
   # url: /donate
 
 social:
-<<<<<<< HEAD
-   github: Todaysu
-=======
    github: todaysu
->>>>>>> 4a8398149e346f00062c7b12ed5eb02c6102a0b2
    #linkedin: in/yanan-zhao-7691317b?trk=hp-identity-photo
    #facebook: profile.php?id=100014334455077
    email: yisu@redhat.com
