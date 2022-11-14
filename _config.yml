@@ -18,7 +18,7 @@ navigation:
  - title: Articles (中文)
    url: /articles-zh
  - title: Reading notes
-   usl: /Reading-notes
+   url: /Reading-notes
  - title: Categories
    url: /categories
  #- title: About
