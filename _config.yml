@@ -1,6 +1,5 @@
 title: Todaysu's Blog
 description: Todaysu's Blog
-
 url: https://todaysu.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
