@@ -1,24 +1,33 @@
 ---
 layout: default
-title: About Long Haul
+title: About ArthurChiao
 ---
 
-<div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' }}" alt="">
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
-	<ul>
-		<li>Built with SASS + GULP + BROWSERSYNC + AUTOPREFIXER</li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
-  		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
-  	</ul>
-</div>
+## Working Experience
+
+1. Ericsson (2014-2016), Software Engineer
+1. Trip.com (Ctrip, 2016-), Senior Architect, Tech Expert
+
+## Focus & Interests
+
+* Networking, BPF
+* Cloud, container, virtualization
+* Distributed storage
+* Low level techniques
+
+## Selected talks
+
+
+
+## Translated Books
+
+* [《云安全实用指南》](https://item.jd.com/66761430027.html)，电子工业出版社，2020
+
+    * 原著：[***Practical Cloud Security***](https://www.oreilly.com/library/view/practical-cloud-security/9781492037507/),
+      Chris Dotson, O'Reilly 2019
+
+## Co-authored Books
+
+* [《携程架构实践》](https://item.jd.com/12838702.html)，电子工业出版社，2020
+
+    * A book named *Ctrip Architecture Distilled*, in Chinese

@@ -1,34 +1,46 @@
-title: TODAYSU'S BOLG 
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: TODAYSU's Blog
+description: TODAYSU's Blog
 
 url: https://todaysu.github.io
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
-# Header Option
-# header: large
-
 markdown: kramdown
 highlighter: rouge
 plugins: [jekyll-paginate]
-paginate: 5
+paginate: 10
 
 navigation:
-  - title: Home
-    url: /index.html
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
+ - title: Home
+   url: /index.html
+ #- title: Articles (EN)
+  # url: /articles
+ - title: Articles (中文)
+   url: /articles-zh
+ - title: Reading notes
+   usl: /Reading-notes
+ - title: Categories
+   url: /categories
+ #- title: About
+ #  url: /about
+ #- title: Donate
+  # url: /donate
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+   github: todaysu
+   #linkedin: in/yanan-zhao-7691317b?trk=hp-identity-photo
+   #facebook: profile.php?id=100014334455077
+   email: yisu@redhat.com
 
-google_analytics: "UA-58263416-1"
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      comments: false
 
-disqus:
-    shortname: brianmaierjr
+google_analytics: "UA-89960542-1"
+
+# development configurations
+host: 0.0.0.0
