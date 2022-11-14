@@ -3,8 +3,8 @@ layout: default
 title : Donate
 ---
 
-<p align="center"><a href="https://paypal.me/arthurchiao">PayPal</a></p>
-<p align="center"><a href="https://paypal.me/arthurchiao"><img src="/assets/img/paypal-logo.png" width="40%" height="40%"></a></p>
+<p align="center"><a href="https://paypal.me/Todaysu">PayPal</a></p>
+<p align="center"><a href="https://paypal.me/Todaysu"><img src="/assets/img/paypal-logo.png" width="40%" height="40%"></a></p>
 
 ----
 

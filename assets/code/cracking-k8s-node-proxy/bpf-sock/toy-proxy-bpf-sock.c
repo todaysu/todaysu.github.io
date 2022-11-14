@@ -1,7 +1,11 @@
 // SPDX-License-Identifier: GPL-2.0
 /* Copyright (C) 2019-2020 Authors of Cilium */
 //
-// @arthurchiao 20210203: borrowed some code from Cilium Project
+<<<<<<< HEAD
+// @Todaysu 20210203: borrowed some code from Cilium Project
+=======
+// @Todaysu 20210203: borrowed some code from Cilium Project
+>>>>>>> parent of 29775f3 (author mod)
 
 #include <linux/bpf.h> // struct bpf_sock_addr
 

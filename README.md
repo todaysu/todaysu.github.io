@@ -1,4 +1,4 @@
-Repo for my [blog](https://arthurchiao.github.io).
+Repo for my [blog](https://Todaysu.github.io).
 
 # 1. Theme
 
@@ -14,15 +14,15 @@ and has changed a lot since then.
 2. Clone this repo, remove my info
 
     ```shell
-    $ git clone https://github.com/arthurchiao/arthurchiao.github.io.git
-    $ cp -rf arthurchiao.github.io <your_github_id>.github.io
+    $ git clone https://github.com/Todaysu/Todaysu.github.io.git
+    $ cp -rf Todaysu.github.io <your_github_id>.github.io
     $ cd <your_github_id>.github.io
     
     # remove my posts
     $ rm -rf .git/ _posts/* _drafts/*
     
     # replace personal information in the matched files
-    $ grep -i arthurchiao *
+    $ grep -i Todaysu *
     ```
 
     **Remove or replace the google analytics code in `_config.yml`**, otherwise,

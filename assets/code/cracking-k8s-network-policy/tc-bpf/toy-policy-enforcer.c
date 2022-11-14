@@ -1,7 +1,11 @@
 // SPDX-License-Identifier: GPL-2.0
 /* Copyright (C) 2019-2022 Authors of Cilium */
 //
-// @arthurchiao 202201123: borrowed some code from the Cilium Project
+<<<<<<< HEAD
+// @Todaysu 202201123: borrowed some code from the Cilium Project
+=======
+// @Todaysu 202201123: borrowed some code from the Cilium Project
+>>>>>>> parent of 29775f3 (author mod)
 
 #include <linux/bpf.h>     // struct __sk_buff
 #include <linux/pkt_cls.h> // TC_ACT_*

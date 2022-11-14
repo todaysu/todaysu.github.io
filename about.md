@@ -1,6 +1,10 @@
 ---
 layout: default
-title: About arthurchiao
+<<<<<<< HEAD
+title: About Todaysu
+=======
+title: About Todaysu
+>>>>>>> parent of 29775f3 (author mod)
 ---
 
 ## Working Experience

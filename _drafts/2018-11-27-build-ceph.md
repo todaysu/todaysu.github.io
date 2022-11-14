@@ -2,7 +2,11 @@
 layout: post
 title:  "Building Ceph From Source"
 date:   2018-11-27
-author: arthurchiao
+<<<<<<< HEAD
+author: Todaysu
+=======
+author: Todaysu
+>>>>>>> parent of 29775f3 (author mod)
 categories: ceph
 ---
 
