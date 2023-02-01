@@ -17,7 +17,7 @@ navigation:
  - title: 文章
    url: /articles-zh
  - title: 笔记
-   url: /Reading-notes
+   url: /notes
  - title: 汇总
    url: /categories
  #- title: About
