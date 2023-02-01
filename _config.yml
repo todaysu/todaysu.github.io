@@ -10,15 +10,15 @@ plugins: [jekyll-paginate]
 paginate: 10
 
 navigation:
- - title: Home
+ - title: 主页
    url: /index.html
  #- title: Articles (EN)
   # url: /articles
- - title: Articles (中文)
+ - title: 文章
    url: /articles-zh
- - title: Reading notes
+ - title: 笔记
    url: /Reading-notes
- - title: Categories
+ - title: 汇总
    url: /categories
  #- title: About
  #  url: /about
